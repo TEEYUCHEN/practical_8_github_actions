@@ -18,7 +18,7 @@ dependencies {
 }
 
 test {
-    // Specify the directory containing test classes
+    // Specify the directory containings test classes
     testClassesDirs = sourceSets.test.output.classesDirs
 
     // Optionally configure test options

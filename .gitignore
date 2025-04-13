@@ -1,0 +1,10 @@
+.gradle/
+.gradle/7.1.1/*
+.gradle/build/*
+# Ignore build output
+build/
+
+# Other common ignores
+*.log
+*.class
+*.jar
